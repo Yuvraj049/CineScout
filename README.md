@@ -52,5 +52,5 @@ address this, we need to create a single, easy-to-use website.
 
 <div align="center">
 
-## Access the site : (https://movieo-liart.vercel.app/)</div>
+## Access the site : (https://cine-scout-rouge.vercel.app/)</div>
 
